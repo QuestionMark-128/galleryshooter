@@ -1,0 +1,42 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "OceanBeach.tmx",
+    "expandedProjectPaths": [
+    ],
+    "fileStates": {
+        "OceanBeach.tmx": {
+            "scale": 0.7285807291666667,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 262.1535162183897,
+                "y": -8.23518899115362
+            }
+        },
+        "OceanBeach.tmx#OceanWorld": {
+            "scaleInDock": 0.2407
+        }
+    },
+    "last.exportedFilePath": "/Users/aidenle/Documents/Phaser/Gallery Shooter/assets",
+    "last.imagePath": "/Users/aidenle/Documents/Phaser/Gallery Shooter/assets",
+    "map.height": 12,
+    "map.lastUsedExportFilter": "JSON map files (*.tmj *.json)",
+    "map.lastUsedFormat": "tmx",
+    "map.tileHeight": 64,
+    "map.tileWidth": 64,
+    "map.width": 10,
+    "openFiles": [
+        "OceanBeach.tmx"
+    ],
+    "project": "OceanBeach.tiled-project",
+    "recentFiles": [
+        "OceanBeach.tmx"
+    ],
+    "tileset.embedInMap": true,
+    "tileset.tileSize": {
+        "height": 64,
+        "width": 64
+    }
+}
