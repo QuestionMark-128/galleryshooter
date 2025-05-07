@@ -1,4 +1,4 @@
-class Before extends Phaser.Scene {
+class Before extends Phaser.scene {
     constructor() {
         super('Before');
         this.my = { sprite: {} };
