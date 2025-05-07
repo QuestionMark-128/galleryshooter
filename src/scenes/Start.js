@@ -6,14 +6,6 @@ class Start extends Phaser.scene {
 
         this.playerX = 320;
         this.playerY = 600;
-        
-        this.myScore = 0;
-        
-        this.currentWave = 1;
-        this.enemyHealth = 1;
-        this.waveInProgress = false;
-        this.boss = null;
-        
     }
 
     preload() {
@@ -70,6 +62,13 @@ class Start extends Phaser.scene {
         this.bossSpeed = 1;
 
         this.lastFired = 0;
+
+        this.myScore = 0;
+        
+        this.currentWave = 1;
+        this.enemyHealth = 1;
+        this.waveInProgress = false;
+        this.boss = null;
 
         this.my.text = {};
         this.my.text.score = this.add.text(40, 675, "Score: 0", {
